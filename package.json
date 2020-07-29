@@ -1,0 +1,24 @@
+{
+  "name": "buildsitenodeexpress",
+  "version": "1.0.0",
+  "description": "Web site created using NodeJs and Express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoamolinaro/buildsitenodeexpress.git"
+  },
+  "author": "Marco A Molinaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoamolinaro/buildsitenodeexpress/issues"
+  },
+  "homepage": "https://github.com/marcoamolinaro/buildsitenodeexpress#readme"
+}
