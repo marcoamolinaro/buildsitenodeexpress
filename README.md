@@ -7,3 +7,4 @@ From the LinkedIn course
 - npm install -D eslint
     - npx eslint --init
 - npm install -D prettier eslint-config-prettier eslint-plugin-prettier
+- npm install ejs
