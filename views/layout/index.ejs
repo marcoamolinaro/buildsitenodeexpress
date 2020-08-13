@@ -23,10 +23,9 @@
   <body>
     <header>
       <div class="jumbotron d-none d-sm-block"></div>
-
-      <%- include('./patches/navigation') %>
+      <%- include('./partials/navigation') %>
     </header>
 
-    <%- include(`../pages/${template}`) %> <%- include('./patches/scripts.ejs') %>
+    <%- include(`../pages/${template}`) %> <%- include('./partials/scripts') %>
   </body>
 </html>
