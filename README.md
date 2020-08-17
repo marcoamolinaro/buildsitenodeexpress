@@ -8,3 +8,4 @@ From the LinkedIn course
     - npx eslint --init
 - npm install -D prettier eslint-config-prettier eslint-plugin-prettier
 - npm install ejs
+- npm install http-errors
